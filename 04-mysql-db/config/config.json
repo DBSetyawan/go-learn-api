@@ -1,0 +1,9 @@
+{
+    "server": {
+        "address": ":9090"
+    },
+    "database": {
+        "driverName": "mysql",
+        "dataSourceName": "daniel:Art3xs!@s@/api_go"
+    }
+}
